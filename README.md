@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=qiita&logoColor=white" />
 </p>
 
-> **Backend / Fullstack** dev with a solid foundation in Networking, OSINT (over 2 years of practical experience), Cybersecurity and Threat Intelligence.
+> **Backend / Fullstack** dev with a solid foundation in Networking, OSINT (over 2 years of practical experience, 30+ solved cases), Cybersecurity and Threat Intelligence.
 
 ---
 
