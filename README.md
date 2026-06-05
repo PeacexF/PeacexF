@@ -15,8 +15,6 @@
 * **Languages:** Go, Python, Bash, SQL, JS/TS(hate it), React
 * **Infrastructure:** Docker / Docker Compose, PostgreSQL, SQLite, Redis, Nginx
 
----
-
 ## Current Focus
 
 * **Engineering:** System Design, Web Crawling & Scraping, Parsing
@@ -35,8 +33,6 @@
 | **NewsSummary** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
 | **Chelicera** | Go single-target crawler with extensive osint capabilities | Go | `[PRIVATE]` |
 | **Mailer** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
-
----
 
 ## Contact
 **Reply within 30 min, UTC+3**  
