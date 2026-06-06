@@ -31,7 +31,7 @@
 | **Stinger** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
 | **Proxy-Strainer** | Fast proxy checker featuring retry logic (i should remake it honestly) | Python | *Finished* |
 | **NewsSummary** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
-| **Chelicera** | Go single-target crawler with extensive osint capabilities | Go | `[PRIVATE]` |
+| **Chelicera** | Go single-target Crawler with extensive osint capabilities + Web interface | Go, TS, React, Redis, Docker | `[PRIVATE]` |
 | **Mailer** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
 
 ## Contact
