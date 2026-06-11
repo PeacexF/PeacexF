@@ -12,14 +12,15 @@
 
 ## Tech Stack & Tools
 
-* **Languages:** Go, Python, Bash, SQL, JS/TS(hate it), React
-* **Infrastructure:** Docker / Docker Compose, PostgreSQL, SQLite, Redis, Nginx
+* **Languages:** Go, Python, Bash, SQL, JS/TS (hate it), React, C
+* **Databases:** PostgreSQL, SQLite, Redis
+* **Infrastructure & Network:** Docker / Docker Compose, Nginx, Postfix, Dovecot, REST & gRPC
 
 ## Current Focus
 
 * **Engineering:** System Design, Web Crawling & Scraping, Parsing
 * **Security:** Web PenTesting & Infrastructure Recon
-* **In the future:** Really want to learn *C* or *C++*
+* **Programming:** Keep learning *C* and then try out *Rust*
 
 ---
 
@@ -29,10 +30,10 @@
 | :--- | :--- | :--- | :--- |
 | **PeaceSystem** | Live Dashboard with metrics of your machine for malware analysis & anomaly detection | Python, Go, React | *Finished*, will continue |
 | **Stinger** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
-| **ProxyC** | Fast proxy checker with sqlite using libcurl + Makefile | C | *Finished* |
+| **ProxyC** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
 | **NewsSummary** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
 | **Chelicera** | Go single-target Crawler with extensive osint capabilities + Web interface | Go, TS, React, Redis, Docker | `[PRIVATE]` |
-| **Mailer** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
+| **MailRain** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
 
 ## Contact
 **Reply within 30 min, UTC+3**  
