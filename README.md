@@ -32,7 +32,7 @@
 | **Stinger** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
 | **ProxyC** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
 | **NewsSummary** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
-| **Chelicera** | Go single-target Crawler with extensive osint capabilities + Web interface | Go, TS, React, Redis, Docker | `[PRIVATE]` |
+| **Chelicera** | Go single-target Crawler with extensive osint, information gathering and ifrastructure mapping capabilities with a Web interface, that displays a complete graph | Go, TS, React, Redis, Docker, SQLite | Can't continue untill esbuild is [fixed](https://github.com/evanw/esbuild/issues/4436) |
 | **MailRain** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
 
 ## Contact
