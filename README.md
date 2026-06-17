@@ -29,11 +29,12 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **PeaceSystem** | Live Dashboard with metrics of your machine for malware analysis & anomaly detection | Python, Go, React | *Finished*, will continue |
-| **Stinger** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
-| **ProxyC** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
-| **NewsSummary** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
-| **Chelicera** | Go single-target Crawler with extensive osint, information gathering and ifrastructure mapping capabilities with a Web interface, that displays a complete graph | Go, TS, React, Redis, Docker, SQLite | Can't continue untill esbuild is [fixed](https://github.com/evanw/esbuild/issues/4436) |
+| **[PeaceSystem](https://github.com/PeacexF/Peace-System)** | Live Dashboard with metrics of your machine for malware analysis & anomaly detection | Python, Go, React | *Finished*, will continue |
+| **[Stinger](https://github.com/PeacexF/Stinger)** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
+| **[ProxyC](https://github.com/PeacexF/ProxyC)** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
+| **[NewsSummary](https://github.com/PeacexF/NewsSummaryBot)** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
+| **[vps-setup](https://github.com/PeacexF/vps-setup)** | Bash scripts to set up various services on a vps | Bash | Semi-Active, Unfinished |
+| **Chelicera** | Single-target Crawler with extensive osint, information gathering and infrastructure mapping capabilities and a Web interface that displays a complete graph of all findings | Go, TS, React, Redis, Docker, SQLite | Blocked by [esbuild #4436](https://github.com/evanw/esbuild/issues/4436) |
 | **MailRain** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
 
 ## Contact
