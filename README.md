@@ -34,7 +34,7 @@
 | **[ProxyC](https://github.com/PeacexF/ProxyC)** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
 | **[NewsSummary](https://github.com/PeacexF/NewsSummaryBot)** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished*, will continue |
 | **[vps-setup](https://github.com/PeacexF/vps-setup)** | Bash scripts to set up various services on a vps | Bash | Semi-Active, Unfinished |
-| **Chelicera** | Single-target Crawler with extensive osint, information gathering and infrastructure mapping capabilities and a Web interface that displays a complete graph of all findings | Go, TS, React, Redis, Docker, SQLite | *Active* |
+| **Chelicera** | Single-target Crawler with extensive osint, information gathering and infrastructure mapping capabilities and a Web interface that displays a complete graph of all findings | Go, TS, React, Redis, Docker, SQLite | *Finished* |
 | **MailRain** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
 
 ## Contact
