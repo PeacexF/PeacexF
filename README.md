@@ -50,8 +50,8 @@
 | :--- | :--- | :--- | :--- |
 | **Chelicera** | Single-target crawler with extensive OSINT, infrastructure mapping, and a web interface for interactive graph visualization. | Go, TS, React, Redis, Docker, SQLite | *Active* |
 | `[PRIVATE]`| Extension of Chelicera focused on social account intelligence. Planned to be a SaaS product. | `[PRIVATE]` | *Active* |
-| **MailRain** | Automated email delivery system | `[PRIVATE]` | `[PRIVATE]` |
-| **HostIMG** | API-first file and image hosting backend designed to integrate with any frontend. May become open-sourced | Go, sqlc, Postgresql, S3, Redis, Docker | *Active* |
+| **MailRain** | Automated email delivery system (got me blacklisted on: BARRACUDA, RATS Dyna, Spamhaus ZEN) | `[PRIVATE]` | `[PRIVATE]` |
+| **HostIMG** | API-first file and image hosting backend designed to integrate with any frontend. May become open sourced under Apache 2.0 | Go, sqlc, PostgreSQL, S3, Redis, Docker | *Active* |
 
 ## Contact
 **Reply within 30 min, UTC+3**  
