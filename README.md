@@ -56,6 +56,6 @@
 ## Contact
 **Reply within 30 min, UTC+3**  
 Telegram account upon request
-* **Session:** `0565f832ff07887256f89bb30db24e587410602115eac980526bd7f2b0d2cf3104`
+* **Session:** `0565f832ff07887256f89bb30db24e587410602115eac980526bd7f2b0d2cf3104`  
 _Session is not closing on July 8th, gladly, they've found the funding_
 * **Email:** `pxxcx_8@proton.me`
