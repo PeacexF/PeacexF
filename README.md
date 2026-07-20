@@ -14,7 +14,7 @@
 
 ## Tech Stack & Tools
 
-* **Languages:** Go, Python, Bash, SQL, JS/TS (hate it), React, Astro, C
+* **Languages:** Go, Python, Bash, SQL, JS/TS, React, Astro, C
 * **Databases & Storage:** PostgreSQL, SQLite, Redis, S3-compatible Object Storage
 * **Infrastructure & DevOps:** Docker / Docker Compose, Nginx, Caddy, Postfix, Dovecot, REST & gRPC
 
