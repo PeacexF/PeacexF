@@ -54,9 +54,15 @@
 | **MailRain** | `[PRIVATE]` | `[PRIVATE]` | `[PRIVATE]` |
 | **HostIMG** | API-first file and image hosting backend designed to integrate with any frontend. May become open sourced under Apache 2.0 | Go, sqlc, PostgreSQL, S3, Redis, Docker | *Active* |
 
-## Contact
+---
+
+<div align="center">
+
+### Contact
 **Reply within 30 min, UTC+3**  
-Telegram account upon request
-* **Session:** `0565f832ff07887256f89bb30db24e587410602115eac980526bd7f2b0d2cf3104`  
-_Session is not closing on July 8th, gladly, they've found the funding_
-* **Email:** `pxxcx_8@proton.me`
+
+Email: `peace_work@tuta.io`
+&nbsp;·&nbsp;
+Telegram: `@peaceful_origin`
+
+</div>
