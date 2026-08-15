@@ -14,24 +14,20 @@
 
 ## Tech Stack & Tools
 
-* **Languages:** Go, Python, Bash, SQL, JS/TS, React, Astro, C
-* **Databases & Storage:** PostgreSQL, SQLite, Redis, S3-compatible Object Storage
-* **Infrastructure & DevOps:** Docker / Docker Compose, Nginx, Caddy, Postfix, Dovecot, REST & gRPC
+* **Languages:** Go, Python, Bash, SQL, JS/TS, React, Astro
+* **Databases & Storage:** PostgreSQL, SQLite, Redis, MongoDB, S3-compatible Object Storage
+* **Infrastructure & DevOps:** Docker / Docker Compose, Nginx, Caddy, Postfix, Dovecot, REST / gRPC / GraphQL
 
-## Interests
+## What I Build
 
-- High-performance backend systems
-- Crawlers & large-scale parsing
-- Distributed systems and microservices
-- Infrastructure & DevOps
-- System design
-- OSINT & Threat Intelligence, Recon & Pentesting
-
-## Current Focus
-
-* **Engineering:** System Design, Web Crawling & Scraping, Parsing
-* **Security:** Web PenTesting & Infrastructure Recon
-* **Programming:** Keep learning *C* and then try out *Rust*
+* **Backend & APIs** - reliable services, data pipelines, and integrations built for real-world workloads
+* **Automation** - software that eliminates repetitive operational work and connects existing systems
+* **Infrastructure** - self-hosted services, deployment systems, monitoring, and production tooling
+* **Data Systems** - crawlers, parsers, search, normalization, and high-volume data processing
+* **Security Tooling** - infrastructure reconnaissance, analysis, and security-focused automation
+* **Telegram Bots** - business automation, integrations, notifications, and custom workflows delivered directly through Telegram
+* **Landing Pages** - fast, conversion-focused (SEO & CRO) websites designed to present products, services, and businesses professionally
+* **Websites** - multi-page, feature-rich websites with custom interactive frontends, responsive design, and polished user experiences
 
 ---
 
@@ -39,11 +35,12 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[PeaceSystem](https://github.com/PeacexF/Peace-System)** | Live Dashboard with metrics of your machine for malware analysis & anomaly detection | Python, Go, React | *Inactive* |
+| **[Twork](https://github.com/PeacexF/Twork)** | A platform (telegram bot + web dashboard) to simplify the search for work in telegram | Go, React, SQLite, RSS | *Active* |
 | **[Stinger](https://github.com/PeacexF/Stinger)** | High-performance CLI tool for massive dataset parsing, normalization and deduplication with SMTP probes for email verification | Python, Go, SMTP | *Active* |
 | **[ProxyC](https://github.com/PeacexF/ProxyC)** | Fast proxy checker with SQLite using libcurl + Makefile | **C** | *Finished* |
-| **[NewsSummary](https://github.com/PeacexF/NewsSummaryBot)** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Inactive* |
-| **[vps-setup](https://github.com/PeacexF/vps-setup)** | Bash scripts to set up various services on a vps | Bash | *Semi-Active* |
+| **[NewsSummary](https://github.com/PeacexF/NewsSummaryBot)** | Telegram bot to generate concise reports on the news for the day with AI | Python, RSS, Gemini API, Telegram API | *Finished* |
+| **[envseal](https://github.com/PeacexF/envseal)** | CLI tool to encrypt and safely commit .env files, integrated into git, built to work with a team | Go, age | *Finished* |
+| **[LeadPipe](https://github.com/PeacexF/LeadPipe)** | Configurable service for collecting, normalizing, validating and deduplicating publicly available business leads from multiple sources. | Python, uv, PostgreSQL | *Finished* |
 
 # Private Projects
 
@@ -51,8 +48,9 @@
 | :--- | :--- | :--- | :--- |
 | **Chelicera** | Single-target crawler with extensive OSINT, infrastructure mapping, and a web interface for interactive graph visualization. | Go, TS, React, Redis, Docker, SQLite | *Finished* |
 | `[PRIVATE]`| Extension of Chelicera focused on social account intelligence. Planned to be a SaaS product. | `[PRIVATE]` | `[PRIVATE]`  |
-| **MailRain** | `[PRIVATE]` | `[PRIVATE]` | `[PRIVATE]` |
-| **HostIMG** | API-first file and image hosting backend designed to integrate with any frontend. May become open sourced under Apache 2.0 | Go, sqlc, PostgreSQL, S3, Redis, Docker | *Active* |
+| **GitXnet** | An event platform for the public web. History tracking, mapping and analyzing | Go, PostgreSQL, Redis, MinIO, React, Typescript, Astro | *Active* |
+| **MailRain** | Automated email sending platform | `[PRIVATE]` | `[PRIVATE]` |
+| **HostIMG** | API-first file and image hosting backend designed to integrate with any frontend. May become open sourced under Apache 2.0 | Go, sqlc, PostgreSQL, S3, Redis, Docker | *Finished* |
 
 ---
 
